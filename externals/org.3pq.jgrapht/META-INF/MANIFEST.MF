@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JGrapht
 Bundle-SymbolicName: org.3pq.jgrapht;singleton:=true
-Bundle-Version: 0.6.0
+Bundle-Version: 0.6.0.qualifier
 Bundle-Vendor: The Chemistry Development Kit Project
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: jar/jgrapht-0.6.0.jar

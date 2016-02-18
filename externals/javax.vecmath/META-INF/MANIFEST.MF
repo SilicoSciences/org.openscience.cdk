@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: VecMath
 Bundle-SymbolicName: javax.vecmath;singleton:=true
-Bundle-Version: 1.2.1.14
+Bundle-Version: 1.2.1.qualifier
 Bundle-Vendor: The Chemistry Development Kit Project
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: jar/vecmath1.2-1.14.jar
