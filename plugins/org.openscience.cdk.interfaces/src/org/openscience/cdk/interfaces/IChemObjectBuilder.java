@@ -20,10 +20,10 @@
  */
 package org.openscience.cdk.interfaces;
 
+import javax.vecmath.Point3d;
+
 import org.openscience.cdk.interfaces.IBond.Order;
 import org.openscience.cdk.interfaces.IBond.Stereo;
-
-import javax.vecmath.Point3d;
 
 /**
  * A helper class to instantiate a IChemObject for a specific implementation.

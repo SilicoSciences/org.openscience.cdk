@@ -20,9 +20,9 @@
  */
 package org.openscience.cdk.interfaces;
 
-import org.openscience.cdk.interfaces.IBond.Order;
-
 import java.util.List;
+
+import org.openscience.cdk.interfaces.IBond.Order;
 
 /**
  *  Base class for all chemical objects that maintain a list of Atoms and
